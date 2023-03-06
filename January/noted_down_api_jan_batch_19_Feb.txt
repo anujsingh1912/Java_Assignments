@@ -1,0 +1,55 @@
+how to explain the framework in the interview------------------
+from next session onward we will start the framework practically from scratch
+but today we will discuss what are the different components of our framework
+we can create the object of a class in the another class----yes
+how you can call the methods of httpmethod class in the test script
+by creating the object of the httpmethod class
+I have worked on the keyword driven framework, we were executing the testcases based upon the keyword
+and for the unit testing we were using testng.  junit and testng
+and rest assured is giving the support of bdd framework by default.
+
+
+
+TC_ID         TC_Description                  packagename              classname          Status
+TC0001    to insert a record for        org.testing.testScripts     TC1                     No
+                   employee
+
+hybrid------------data driven + keyword driven
+
+
+
+even you can move your keyword driven fw into hybrid as well by adding data driven approach
+
+
+keyword driven---------------> hybrid  
+
+
+
+
+bdd or cucumber----------rest assured is supporting the bdd 
+
+we are not implementing rest assured is giving the support
+
+
+
+
+behaviour driven development------------given() when() then()
+
+
+
+****************************************
+Keyword driven-----------execute the test cases based upon the keyword
+data driven------------------when we have to test case with multiple test data that is data driven
+hybrid-------------------------that is combination of data driven and keyword driven
+
+
+
+
+
+
+
+
+
+
+
+
